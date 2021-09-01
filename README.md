@@ -7,13 +7,13 @@
 </h2>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/victorfariasdev/">
+  <a href="https://www.linkedin.com/in/victorfariasdev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/victorfariasdev">
+  <a href="https://www.facebook.com/victorfariasdev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://victorfariass-portfolio.herokuapp.com/">
+  <a href="https://victorfariass-portfolio.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
